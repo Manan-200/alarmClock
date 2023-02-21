@@ -1,4 +1,3 @@
-import multiprocessing
 from playsound import playsound
 import time
 
